@@ -1,1 +1,2 @@
-// c68dc6eaf19c11609a61df5eb347992c
+// c68dc6eaf19c11609a61df5eb347992c //
+{"coord":{"lon":10.99,"lat":44.34},"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04d"}],"base":"stations","main":{"temp":284.37,"feels_like":283.71,"temp_min":280.9,"temp_max":287.56,"pressure":1006,"humidity":83,"sea_level":1006,"grnd_level":921},"visibility":10000,"wind":{"speed":2.3,"deg":213,"gust":5.53},"clouds":{"all":94},"dt":1680277581,"sys":{"type":2,"id":2044440,"country":"IT","sunrise":1680238785,"sunset":1680284437},"timezone":7200,"id":3163858,"name":"Zocca","cod":200}
